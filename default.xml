@@ -3,6 +3,7 @@
   <remote name="origin" fetch=".." review="https://github.com/Xalgorithms" />
   <default revision="master" remote="origin" sync-s="true" sync-j="4" sync-c="true" />
   <project path="services/tables" name="tables-service" />
+  <project path="services/director" name="director-service" />
   <project path="services/documents" name="documents-service" />
   <project path="services/rules" name="rules-service" />
   <project path="apps/lichen-webui" name="lichen-webui" />
