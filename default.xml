@@ -10,6 +10,6 @@
   <project path="apps/lichen-android" name="xa-calcicola" />
   <project path="deploy" name="xa-deploy" />
   <project path="libs/ubl" name="xa-ubl" />
-  <project path="lib/rules" name="xa-rules" />
+  <project path="libs/rules" name="xa-rules" />
   
 </manifest>
