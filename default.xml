@@ -9,6 +9,7 @@
   <project path="apps/lichen-webui" name="lichen-webui" />
   <project path="apps/lichen-android" name="xa-calcicola" />
   <project path="deploy" name="xa-deploy" />
+  <project path="libs/clients" name="xa-clients" />
   <project path="libs/rules" name="xa-rules" />
   <project path="libs/messages" name="xa-messages" />
   <project path="libs/ubl" name="xa-ubl" />
