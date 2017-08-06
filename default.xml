@@ -5,6 +5,7 @@
   <project path="services/tables" name="tables-service" />
   <project path="services/director" name="director-service" />
   <project path="services/documents" name="documents-service" />
+  <project path="services/rules" name="rules-service" />
   <project path="apps/lichen-webui" name="lichen-webui" />
   <project path="apps/lichen-android" name="xa-calcicola" />
   <project path="deploy" name="xa-deploy" />
